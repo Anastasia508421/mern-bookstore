@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "MongoDB: The Definitive Guide",
+      "author": "Shannon Bradshaw, Kristina Chodorow",
+      "isbn": "978-1491954461",
+      "category": "MongoDB",
+      "description": "A comprehensive guide to relational document modeling and scaling with MongoDB.",
+      "tags": ["mongodb", "nosql"],
+      "price": 89.99,
+      "discountPrice": null,
+      "stock": 15,
+      "isActive": true,
+      "featured": true,
+      "rating": 4.7,
+      "reviewCount": 128,
+      "imageUrl": "https://openlibrary.org",
+      "specifications": {
+        "pages": 512,
+        "language": "English",
+        "publisher": "O'Reilly Media",
+        "year": 2019,
+        "format": "Paperback"
+      },
+      "createdAt": "2026-10-06T08:00:00.000Z",
+      "updatedAt": "2026-10-06T08:00:00.000Z"
+    }
+  ],
+  "metadata": {
+    "totalProducts": 1,
+    "lastUpdated": "2026-10-06T08:00:00.000Z",
+    "version": "2.1.0",
+    "currency": "RON",
+    "shippingCost": 19.99
+  }
+}
