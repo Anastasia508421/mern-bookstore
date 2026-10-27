@@ -8,4 +8,5 @@ coverage/
 *.log
 .DS_Store
 Thumbs.db
-.idea/
+.idea/backend/data/cart.json
+backend/data/*.tmp

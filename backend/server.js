@@ -18,6 +18,7 @@ const CORS_ORIGIN = (process.env.CORS_ORIGIN || 'http://localhost:5173')
 
 // Căile către fișierele de date
 const PRODUCTS_FILE = path.join(__dirname, 'data', 'books.json');
+const CART_FILE = path.join(__dirname, 'data', 'cart.json'); // L4 
 
 // 3. Middleware - ordinea este importantă!
 app.use(helmet()); // antete HTTP de securitate
